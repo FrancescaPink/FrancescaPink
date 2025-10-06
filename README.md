@@ -1,4 +1,4 @@
- Hi there 👋
+# Hi there 👋
 
 - 💻 Computer Science Bachelor's degree student at University of Modena e Reggio Emilia
 - 📘 I graduated from high school with a diploma in Computer Science
